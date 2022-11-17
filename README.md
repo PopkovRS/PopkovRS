@@ -32,3 +32,6 @@ Bugs on Palen Music Center site [LINK to bugs](https://drive.google.com/file/d/1
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-008037?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/ruslan-popkov-381140253/)
 [![Telegram](https://img.shields.io/badge/-Telegram-008037?style=for-the-badge&logo=Telegram)](https://t.me/reload_315/)
+
+### Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PopkovRS)](https://git.io/streak-stats)
