@@ -1,16 +1,23 @@
-### Hi there 👋
+![Header](https://raw.githubusercontent.com/PopkovRS/PopkovRS/main/images/header.png)
 
-<!--
-**PopkovRS/PopkovRS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there! My name is Ruslan Popkov. I`m beginner QA Engineer from Russia, Saint Petersburg.
 
-Here are some ideas to get you started:
+## Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Moscow Power Engineering Institute (Technical University)
+Bachelor's degree
+Information Technology (Sep 2017 - Jul 2021)
+
+## Certificates
+
+[EF SET English Certificate (B1 Intermediate)](https://www.efset.org/cert/CzwN3J)
+
+[Construction of business processes of an intelligent enterprise (Peter the Great St.Petersburg Polytechnic University)](https://drive.google.com/drive/folders/1uNuoOhL0IvflkIQOzrBRqytAyVjsZds_?usp=sharing)
+
+[Lectures on modern web-technologies (NOU INTUIT)](https://intuit.ru/verifydiplomas/101370484)
+
+## My projects
+
+Bugs on Palen Music Center site [LINK to bugs](https://drive.google.com/file/d/11KWsKnH_420Rxh8NlXFWrKwKv2wbrNiT/view?usp=share_link)
+
+
