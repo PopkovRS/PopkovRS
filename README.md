@@ -17,9 +17,10 @@ Information Technology (Sep 2017 - Jul 2021)
 [Lectures on modern web-technologies (NOU INTUIT)](https://intuit.ru/verifydiplomas/101370484)
 
 ## My projects
-Bugs on Palen Music Center site ([LINK to bugs](https://drive.google.com/file/d/11KWsKnH_420Rxh8NlXFWrKwKv2wbrNiT/view?usp=share_link))
 
-###Languages and tools
+Bugs on Palen Music Center site [LINK to bugs](https://drive.google.com/file/d/11KWsKnH_420Rxh8NlXFWrKwKv2wbrNiT/view?usp=share_link)
+
+### Languages and tools
 
 ![Postman](https://img.shields.io/badge/-Postman-008037?style=for-the-badge&logo=Postman)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-008037?style=for-the-badge&logo=JavaScript)
@@ -27,4 +28,7 @@ Bugs on Palen Music Center site ([LINK to bugs](https://drive.google.com/file/d/
 ![CSS3](https://img.shields.io/badge/-CSS3-008037?style=for-the-badge&logo=CSS3)
 ![GitHub](https://img.shields.io/badge/-GitHub-008037?style=for-the-badge&logo=GitHub)
 
-###Follow me
+### Follow me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-008037?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/ruslan-popkov-381140253/)
+[![Telegram](https://img.shields.io/badge/-Telegram-008037?style=for-the-badge&logo=Telegram)](https://t.me/reload_315/)
