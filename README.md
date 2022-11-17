@@ -17,7 +17,14 @@ Information Technology (Sep 2017 - Jul 2021)
 [Lectures on modern web-technologies (NOU INTUIT)](https://intuit.ru/verifydiplomas/101370484)
 
 ## My projects
+Bugs on Palen Music Center site ([LINK to bugs](https://drive.google.com/file/d/11KWsKnH_420Rxh8NlXFWrKwKv2wbrNiT/view?usp=share_link))
 
-Bugs on Palen Music Center site [LINK to bugs](https://drive.google.com/file/d/11KWsKnH_420Rxh8NlXFWrKwKv2wbrNiT/view?usp=share_link)
+###Languages and tools
 
+![Postman](https://img.shields.io/badge/-Postman-008037?style=for-the-badge&logo=Postman)
+![JavaScript](https://img.shields.io/badge/-JavaScript-008037?style=for-the-badge&logo=JavaScript)
+![HTML5](https://img.shields.io/badge/-HTML5-008037?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-008037?style=for-the-badge&logo=CSS3)
+![GitHub](https://img.shields.io/badge/-GitHub-008037?style=for-the-badge&logo=GitHub)
 
+###Follow me
