@@ -19,6 +19,7 @@ Information Technology (Sep 2017 - Jul 2021)
 ## My projects
 
 Bugs on Palen Music Center site [LINK to bugs](https://drive.google.com/file/d/11KWsKnH_420Rxh8NlXFWrKwKv2wbrNiT/view?usp=share_link)
+Checklist for Web-App testing sample [LINK to checklist](https://docs.google.com/spreadsheets/d/1h14w7WYHAbc57gtkAlbUoN7JQrp44BAZ/edit?usp=share_link&ouid=100048451314049502837&rtpof=true&sd=true)
 
 ### Languages and tools
 
