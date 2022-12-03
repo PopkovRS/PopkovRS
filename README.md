@@ -1,4 +1,3 @@
-![Header](https://raw.githubusercontent.com/PopkovRS/PopkovRS/f8e5ce9a876eedde77650bd62696ef4c587d6719/images/header1.png)
 
 ## Hi there! My name is Ruslan Popkov. I`m beginner QA Engineer from Russia, Saint Petersburg.
 
